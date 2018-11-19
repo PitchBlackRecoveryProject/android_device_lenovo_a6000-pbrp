@@ -90,3 +90,6 @@ TW_NO_EXFAT_FUSE := true
 TW_NO_USB_STORAGE := true
 TWRP_INCLUDE_LOGCAT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
+
+#Official
+PB_OFFICIAL := true
